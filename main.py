@@ -41,7 +41,7 @@ def out():
         if is_ok:
             try:
 
-                token = "tY9kE8SRG27yxy5hXmpu"
+                token = "****55555****"
                 num_assets = len(stocks)
                 wiki = WikipediaDataProvider(token=token,
                                              tickers=stocks,
