@@ -2,7 +2,7 @@
 Trading with Quantum IBM QISKIT 
 
 ## Video
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/669130150?h=341fcbd70e" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+"https://player.vimeo.com/video/669130150?h=341fcbd70e" 
 
 ## Inspiration
 Our team was wanting to learn Quantum Computing for a long time and we wanted to learn how to create quantum circuits on IBM's Quantum service, Qiskit, so we wanted to try to learn them and make something useful out of it. We also wanted to try IBM's Quantum Challenge and thus decided to create something with the help of Qiskit.
